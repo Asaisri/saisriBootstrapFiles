@@ -1,0 +1,27 @@
+.a{
+	height:50px;
+	width:100px;
+	background-color:pink;
+	text-align:center;
+	margin:5px;
+	text-decoration:none;
+	padding-top:10px;
+	border:2px solid darkblue;
+	font-size:15px;
+}
+.b{
+	height:50px;
+	width:110px;
+	background-color:pink;
+	text-align:center;
+	margin:5px;
+	text-decoration:none;
+	padding-top:10px;	
+	border:2px solid darkblue;
+	font-size:15px;
+}
+.c{
+	height:50px;
+	width:110px;
+	background-color:white;
+}
